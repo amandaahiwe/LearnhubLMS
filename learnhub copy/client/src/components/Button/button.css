@@ -1,0 +1,30 @@
+.btn {
+  font-size: var(--font14);
+  padding: 1rem 2rem;
+  border-radius: 0.4rem;
+  color: var(--white);
+  cursor: pointer;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  border: none;
+  outline: none;
+}
+
+.btn-purple {
+  background-color: var(--dark-purple);
+  width: fit-content;
+}
+
+.btn-transparent {
+  background-color: transparent;
+  color: var(--dark-purple);
+}
+
+.btn p {
+  cursor: pointer;
+}
+
+.txt-black {
+  color: #333;
+}

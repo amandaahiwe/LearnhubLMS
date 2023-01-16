@@ -1,0 +1,17 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.form__input__wrapper {
+  margin: 1rem 0;
+}
+
+.form__input {
+  width: 100%;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  outline: none;
+  border: 0.1rem solid #ccc;
+}

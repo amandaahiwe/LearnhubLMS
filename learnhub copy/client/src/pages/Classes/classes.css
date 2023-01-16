@@ -1,0 +1,73 @@
+.classes__main-area {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 2rem;
+}
+
+.classes__banner {
+  height: 30rem;
+}
+
+.classes__banner img {
+  height: 100%;
+  width: 100%;
+}
+
+.classes__content {
+  margin-top: 1rem;
+}
+
+.classes__content h2 {
+  font-size: var(--font20);
+  text-transform: capitalize;
+}
+
+.classes__content p {
+  font-size: var(--font14);
+  color: #333;
+}
+
+.pricing-panel {
+  width: 100%;
+}
+
+.classes__content__pricing {
+  margin-top: 1rem;
+}
+.pricing {
+  font-size: var(--font25);
+}
+
+.pricing__button {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  margin-top: 1rem;
+}
+
+.pricing__cto {
+  margin: 2rem 0;
+  font-size: var(--font14);
+  padding: 0.8rem 2rem;
+  border-radius: 0.4rem;
+  color: var(--dark-purple);
+  cursor: pointer;
+  text-transform: capitalize;
+  text-align: center;
+  width: 100%;
+  border: 0.1rem solid var(--dark-purple);
+  border-radius: 0.5rem;
+}
+
+.courses__recomendation {
+  margin: 2rem 0;
+}
+
+.courses__recomendation h2 {
+  text-transform: capitalize;
+  font-size: var(--font18);
+}
+
+.classes__wrapper {
+  height: 90vh;
+  overflow-y: scroll;
+}

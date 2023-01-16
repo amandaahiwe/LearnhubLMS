@@ -1,0 +1,29 @@
+.coursecardsm {
+  border-bottom: 0.1rem solid #eaeaea;
+}
+
+.coursecardsm__thumbnail img {
+  width: 10rem;
+}
+
+.coursecardsm {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 1rem 0;
+}
+
+.coursecardsm__content {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.coursecardsm__content__details h2 {
+  font-size: var(--font14);
+  text-transform: capitalize;
+}
+
+.coursecardsm__content__details p {
+  font-size: 1.3rem;
+}
