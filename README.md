@@ -5,9 +5,10 @@
 Features
 
 + Course creation (Teacher)
-+ Course enrollment (Student)
-+ Course Purchase (Student) auto enroll after purchase
-> For testing of course purchase
++ Course modification (Teacher)
++ Course enrollment (Student) 
+
+> For testing the checkout functionality
 > Stripe card number : **4242 4242 4242 4242**
 > Stripe expiry date : Any future date
 > Stripe cvv : Any three (3) digits
