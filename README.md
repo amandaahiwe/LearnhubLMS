@@ -14,7 +14,7 @@ Features
 
 
 
-Get Started [Sign up](https://thevalley-livid.vercel.app/auth/register).
+Get Started [Sign up](https://learnhub-six.vercel.app/auth/register).
 
 
 
