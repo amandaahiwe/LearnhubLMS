@@ -161,7 +161,7 @@ export default function Dashboard() {
                         </div>
                         <div className="shadow-sm shadow-zinc-300 px-3 py-4 rounded text-center">
                             <HeartIcon width={40} className="mx-auto text-zinc-500 mb-1" />
-                            <h2 className="text-3xl font-semibold text-zinc-500">2</h2>
+                            <h2 className="text-3xl font-semibold text-zinc-500">0</h2>
                             <p className="md:text-lg xs:text-sm">Number of wishes</p>
                         </div>
                     </article>
