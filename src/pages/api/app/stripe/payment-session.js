@@ -6,7 +6,7 @@ export default async function handler(req, res) {
     const transformedItems = req.body.cart ? req.body.cart.map((item) => ({
       quantity: 1,
       price_data: {
-        currency: 'usd',
+        currency: 'gbp',
         unit_amount: item.price * 100,
 
         product_data: {
